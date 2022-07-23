@@ -25,5 +25,106 @@
 <summary>Level 1</summary>
 <br>
 <img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
->In this level, we should 
+<br>
+<ul>
+<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+</ul>
+
 </details>
+<details open>
+<summary>Level 2</summary>
+<br>
+<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<br>
+<ul>
+<li>In this level, we should know the private IP adress : A private IP address is a range of non-internet facing IP addresses used in an internal network.</li>
+<p>Address ranges to be use by private networks are:</p>
+
+<li>Class A: 10.0.0.0 to 10.255.255.255</li>
+<li>Class B: 172.16.0.0 to 172.31.255.255</li>
+<li>Class C: 192.168.0.0 to 192.168.255.255</li>
+</ul>
+
+</details>
+
+<details open>
+<summary>Level 3</summary>
+<br>
+<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<br>
+<ul>
+<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+</ul>
+
+</details>
+<details open>
+<summary>Level 4</summary>
+<br>
+<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<br>
+<ul>
+<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+</ul>
+
+</details>
+<details open>
+<summary>Level 5</summary>
+<br>
+<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<br>
+<ul>
+<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+</ul>
+
+</details>
+
+<details open>
+<summary>Level 6</summary>
+<br>
+<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<br>
+<ul>
+<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+</ul>
+
+</details>
+<details open>
+<summary>Level 7</summary>
+<br>
+<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<br>
+<ul>
+<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+</ul>
+
+</details>
+<details open>
+<summary>Level 8</summary>
+<br>
+<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<br>
+<ul>
+<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+</ul>
+
+</details>
+<details open>
+<summary>Level 9</summary>
+<br>
+<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<br>
+<ul>
+<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+</ul>
+
+</details>
+
+<details open>
+<summary>Level 10</summary>
+<br>
+<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<br>
+<ul>
+<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+</ul>
+
