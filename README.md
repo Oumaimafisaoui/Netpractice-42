@@ -16,5 +16,6 @@
 ## What's a subnet mask?
 >  The subnet mask is used by the TCP/IP protocol to determine whether a host is on the local subnet or on a remote network.
 
+## Why using routers?
 
-
+> If a TCP/IP computer needs to communicate with a host on another network, it will usually communicate through a device called a router. In TCP/IP terms, a router that is specified on a host, which links the host's subnet to other networks, is called a default gateway. This section explains how TCP/IP determines whether or not to send packets to its default gateway to reach another computer or device on the network.
