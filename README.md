@@ -24,5 +24,6 @@
 <details open>
 <summary>Level 1</summary>
 <br>
-
+<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+>In this level, we should 
 </details>
