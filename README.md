@@ -34,7 +34,7 @@
 <details open>
 <summary>Level 2</summary>
 <br>
-<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<img src="img/Screen Shot 2022-07-24 at 2.57.33 PM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
 <li>In this level, we should know the private IP adress : A private IP address is a range of non-internet facing IP addresses used in an internal network.</li>
@@ -52,30 +52,30 @@
 <details open>
 <summary>Level 3</summary>
 <br>
-<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<img src="img/Screen Shot 2022-07-24 at 3.04.24 PM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
-<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+<li>A network switch forwards data packets between devices. Switches send packets directly to devices, rather than sending them to networks like a router does.</li>
 </ul>
 
 </details>
 <details open>
 <summary>Level 4</summary>
 <br>
-<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<img src="img/Screen Shot 2022-07-24 at 3.08.31 PM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
-<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+<li>A router is a device that connects two or more packet-switched networks or subnetworks. It serves two primary functions: managing traffic between these networks by forwarding data packets to their intended IP addresses, and allowing multiple devices to use the same Internet connection.</li>
 </ul>
 
 </details>
 <details open>
 <summary>Level 5</summary>
 <br>
-<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<img src="img/Screen Shot 2022-07-24 at 3.24.22 PM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
-<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+<li>The main function of a switch is to connect the end devices such as computers, printers, etc., whereas the main function of a router is to connect two different networks.</li>
 </ul>
 
 </details>
