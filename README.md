@@ -119,11 +119,10 @@ As a destination, 0.0.0.0/0 is special: if there are no network bits, there can'
 <img src="img/Screen Shot 2022-07-24 at 9.49.13 PM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
-<li>Network1 : ion - meson : change 192 to 193</li>
-<li>Network1 : cation - gluon </li>
-<li>Network1 : ion - meson</li>
-<li>Network1 : ion - meson</li>
-<li>Network1 : ion - meson</li>
+<li>Network1 : ion - meson : change 192 to 193 => add meson IP/25 to internet destination</li>
+<li>Network1 : cation - gluon : different network id between the two inside subnets + change 10 => add cation IP/25 to internet destination</li>
+<li>Network1 : prototn route : R21 IP</li>
+<li>Network1 : R13 - R21 : caution to range</li>
 
 </ul>
 
