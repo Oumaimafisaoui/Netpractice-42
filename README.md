@@ -87,6 +87,9 @@
 <br>
 <ul>
 <li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+  <p>0.0.0.0 has the specific meaning "unspecified". This roughly translates to "there is none" in the context of a gateway. Of course, this assumes that the network is locally connected, as there is no intermediate hop. The machine will send the packet out that interface as though to a machine connected to that segment, which in Ethernet means the MAC address of the destination host will be used instead of the MAC address of the next hop gateway.
+
+As a destination, 0.0.0.0/0 is special: if there are no network bits, there can't be anything in the network number either. So, it's naturally unspecified. For prefix matching it masks off all bits, so all addresses are within 0.0.0.0/0; for this reason it's used to mean "default gateway" in routing tables. It is also the least-specific possible route, so selections that prioritize specificity will choose anything else available and match 0.0.0.0/0 as a last resort.</p>
 </ul>
 
 </details>
