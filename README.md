@@ -106,10 +106,10 @@ As a destination, 0.0.0.0/0 is special: if there are no network bits, there can'
 <details open>
 <summary>Level 8</summary>
 <br>
-<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<img src="img/Screen Shot 2022-07-24 at 6.05.03 PM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
-<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+<li>In this level, The destination defines the network Id and the mask we have to use, the router table has two entries the gateway where the packet goes, and were it comes to the devices.</li>
 </ul>
 
 </details>
