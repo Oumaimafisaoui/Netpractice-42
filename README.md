@@ -83,7 +83,7 @@
 <details open>
 <summary>Level 6</summary>
 <br>
-<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<img src="img/Screen Shot 2022-07-24 at 4.53.27 PM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
 <li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
@@ -96,10 +96,10 @@ As a destination, 0.0.0.0/0 is special: if there are no network bits, there can'
 <details open>
 <summary>Level 7</summary>
 <br>
-<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<img src="img/Screen Shot 2022-07-24 at 5.28.21 PM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
-<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+<li>In this level, we handle the overlaping issue, with the 255.255.255.0 mask, there is only one network, but we have 3 , that is why we use a new mask , respecting the ranges. </li>
 </ul>
 
 </details>
