@@ -116,10 +116,15 @@ As a destination, 0.0.0.0/0 is special: if there are no network bits, there can'
 <details open>
 <summary>Level 9</summary>
 <br>
-<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<img src="img/Screen Shot 2022-07-24 at 9.49.13 PM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
-<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
+<li>Network1 : ion - meson : change 192 to 193</li>
+<li>Network1 : cation - gluon </li>
+<li>Network1 : ion - meson</li>
+<li>Network1 : ion - meson</li>
+<li>Network1 : ion - meson</li>
+
 </ul>
 
 </details>
