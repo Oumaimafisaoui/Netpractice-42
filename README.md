@@ -43,6 +43,8 @@
 <li>Class A: 10.0.0.0 to 10.255.255.255</li>
 <li>Class B: 172.16.0.0 to 172.31.255.255</li>
 <li>Class C: 192.168.0.0 to 192.168.255.255</li>
+<br>
+<p>The IP address 127.0.0.1 is a special-purpose IPv4 address and is called the localhost or loopback address. All computers use this address as their own, but it doesn't let computers communicate with other devices as a real IP address does.</p>
 </ul>
 
 </details>
