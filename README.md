@@ -146,9 +146,17 @@ As a destination, 0.0.0.0/0 is special: if there are no network bits, there can'
 <details open>
 <summary>Level 10</summary>
 <br>
-<img src="img/Screen Shot 2022-07-23 at 5.33.30 PM.png" alt="Markdown Monster icon"></img>
+<img src="img/Screen Shot 2022-07-25 at 1.03.16 PM.png" alt="Markdown Monster icon"></img>
 <br>
-<ul>
-<li>In this level, we should put the hosts on the same network by providing the same Net-ID while respecting the IP adress range.</li>
-</ul>
+<ol>
+<li>Take H4 hop and put it in R23 with H41 mask.</li>
+<li>Take R11 mask and Network ID and put it in H21 and H11.</li>
+<li>Connect R13 and R21</li>
+<li>put router R1 table default.</li>
+<li>The internet should connect with Host one nad three and four, therefor put the mask /24 that assamble them all..</li>
+<li>all the adresses has the same NET-ID, the last byte change based on the mask range: R11 Network takes the range 1 -> 128</li>
+<li>R13 Network takes teh range : 251 => 255</li>
+<li>R23 Network takes 128=> 192</li>
+<li>The only free range for R22 is from 192 to 251</li>
+</ol>
 
