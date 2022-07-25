@@ -119,10 +119,24 @@ As a destination, 0.0.0.0/0 is special: if there are no network bits, there can'
 <img src="img/Screen Shot 2022-07-24 at 9.49.13 PM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
-<li>Network1 : ion - meson : change 192 to 193 => add meson IP/25 to internet destination</li>
-<li>Network1 : cation - gluon : different network id between the two inside subnets + change 10 => add cation IP/25 to internet destination</li>
-<li>Network1 : prototn route : R21 IP</li>
-<li>Network1 : R13 - R21 : caution to range</li>
+<p>The 10.0. 0.1 IP address is special because it can be used more than once. It belongs to the 24-bit block of private IP address.</p>
+<br>
+<p>In short, you can subnet the default B mask for A, or the default C mask for A and B, but you cant go the other way.</p>
+<br>
+<p>8.8.8.8 is the IP Address for one of Google’s DNS server.</p>
+<br>
+<p>The Domain Name System is the hierarchical and decentralized naming system used to identify computers reachable through the Internet or other Internet Protocol networks.  <p>
+<p>DNS Servers “translate” domain or web names like goggle.com, cnn.com, fox.com, etc to IP addresses that are the real way traffic is handled.</p>
+<ol>
+<li>take the mask of R11 as mask for its network</li>
+<li>change 192 (private network) to a public network</li>
+<li>take the ip from gluon for its network and chaneg the mask to /18.</li>
+<li>change the private network 10.0.0.0 to a public one with a /24 mask.</li>
+<li>change rhe R13 / R21 IP range of 2</li>
+<li>Fill the routing tables with IP's of the routers:.</li>
+<li>R1 PROTON NEEDS R21 ENTRY GATEAWAY. already got thr out gateway.</li>
+<li>Fill the routing tables with IP's of the routers:.</li>
+</ol>
 
 </ul>
 
