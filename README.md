@@ -116,7 +116,7 @@ As a destination, 0.0.0.0/0 is special: if there are no network bits, there can'
 <details open>
 <summary>Level 9</summary>
 <br>
-<img src="img/Screen Shot 2022-07-24 at 9.49.13 PM.png" alt="Markdown Monster icon"></img>
+<img src="img/Screen Shot 2022-07-25 at 11.48.30 AM.png" alt="Markdown Monster icon"></img>
 <br>
 <ul>
 <p>The 10.0. 0.1 IP address is special because it can be used more than once. It belongs to the 24-bit block of private IP address.</p>
