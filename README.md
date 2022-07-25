@@ -136,6 +136,7 @@ As a destination, 0.0.0.0/0 is special: if there are no network bits, there can'
 <li>Fill the routing tables with IP's of the routers:.</li>
 <li>R1 PROTON NEEDS R21 ENTRY GATEAWAY. already got thr out gateway.</li>
 <li>Fill the routing tables with IP's of the routers:.</li>
+<li>The internet routing table needs the dest IPs with the masks.</li>
 </ol>
 
 </ul>
