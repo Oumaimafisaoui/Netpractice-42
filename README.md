@@ -1,5 +1,10 @@
 # Netpractice-42
-
+<h3>Top ressources:<h3>
+<ul>
+<li>https://www.youtube.com/watch?v=AslJxRKgyeo</li>
+<li>https://www.youtube.com/watch?v=q7wNcYliJ1Q&t=967s</li>
+<li>https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting</li>
+</ul>
 ## What's an IP adresse?
 > An IP address, or Internet Protocol address, is a series of numbers that identifies any device on a network. Computers use IP addresses to communicate with each other both over the internet as well as on other networks.
 
@@ -127,17 +132,6 @@ As a destination, 0.0.0.0/0 is special: if there are no network bits, there can'
 <br>
 <p>The Domain Name System is the hierarchical and decentralized naming system used to identify computers reachable through the Internet or other Internet Protocol networks.  <p>
 <p>DNS Servers “translate” domain or web names like goggle.com, cnn.com, fox.com, etc to IP addresses that are the real way traffic is handled.</p>
-<ol>
-<li>take the mask of R11 as mask for its network</li>
-<li>change 192 (private network) to a public network</li>
-<li>take the ip from gluon for its network and chaneg the mask to /18.</li>
-<li>change the private network 10.0.0.0 to a public one with a /24 mask.</li>
-<li>change rhe R13 / R21 IP range of 2</li>
-<li>Fill the routing tables with IP's of the routers:.</li>
-<li>R1 PROTON NEEDS R21 ENTRY GATEAWAY. already got thr out gateway.</li>
-<li>Fill the routing tables with IP's of the routers:.</li>
-<li>The internet routing table needs the dest IPs with the masks.</li>
-</ol>
 
 </ul>
 
@@ -148,15 +142,5 @@ As a destination, 0.0.0.0/0 is special: if there are no network bits, there can'
 <br>
 <img src="img/Screen Shot 2022-07-25 at 1.03.16 PM.png" alt="Markdown Monster icon"></img>
 <br>
-<ol>
-<li>Take H4 hop and put it in R23 with H41 mask.</li>
-<li>Take R11 mask and Network ID and put it in H21 and H11.</li>
-<li>Connect R13 and R21</li>
-<li>put router R1 table default.</li>
-<li>The internet should connect with Host one nad three and four, therefor put the mask /24 that assamble them all..</li>
-<li>all the adresses has the same NET-ID, the last byte change based on the mask range: R11 Network takes the range 1 -> 128</li>
-<li>R13 Network takes teh range : 251 => 255</li>
-<li>R23 Network takes 128=> 192</li>
-<li>The only free range for R22 is from 192 to 251</li>
-</ol>
+<p>All what was done in previous levels </p>
 
