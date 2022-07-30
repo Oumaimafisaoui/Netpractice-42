@@ -1,10 +1,12 @@
 # Netpractice-42
 <h3>Top ressources:<h3>
+
 <ul>
 <li>https://www.youtube.com/watch?v=AslJxRKgyeo</li>
 <li>https://www.youtube.com/watch?v=q7wNcYliJ1Q&t=967s</li>
 <li>https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting</li>
 </ul>
+
 ## What's an IP adresse?
 > An IP address, or Internet Protocol address, is a series of numbers that identifies any device on a network. Computers use IP addresses to communicate with each other both over the internet as well as on other networks.
 
